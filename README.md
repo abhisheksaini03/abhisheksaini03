@@ -1,4 +1,4 @@
-![logo](https://github.com/abhisheksaini03/abhisheksaini03/blob/main/banner.png)
+![logo](https://github.com/abhisheksaini03/abhisheksaini03/blob/main/Untitled%20design%20(3).png)
 <h1 align="center">Hi 👋, I'm Abhishek saini</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
